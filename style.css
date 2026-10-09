@@ -1,0 +1,28 @@
+p{
+    color:rgb(178, 203, 212);
+font-weight:greenyellow;
+font-size: 19pt;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+body{
+    color:blue;
+    background-color:rgb(103, 113, 250)
+}
+
+div{
+    width: 800px;
+    padding : 20px;
+    margin : auto;
+    background-color:rgb(103, 113, 250)
+}
+
+ .text{
+    font-size: 13px;
+    font-weight: normal;
+ }
+
+ .tytul{
+    font-size: 30px;
+    font-weight: bold;
+ }
